@@ -50,7 +50,7 @@ export default function Projects() {
       description:
         "A responsive and optimized calculator application built using Next.js. Demonstrates efficient state handling, reusable components, and clean UI design principles.",
       github: "https://github.com/saleenagul35-svg/Calculator.git",
-      live: "#",
+      live: "https://calculator-two-nu-14.vercel.app/",
       image: "/pics/Calculator.png",
     },
     {
@@ -60,7 +60,7 @@ export default function Projects() {
         "A personal finance tracking application that allows users to manage income and expenses effectively. Focused on clean UI structure, reusable components, and performance optimization.",
       github:
         "https://github.com/saleenagul35-svg/finance-Tracker-App.git",
-      live: "#",
+      live: "https://finance-tracker-app-beige.vercel.app/",
       image: "/pics/Finance Tracker.png",
     },
   ];
