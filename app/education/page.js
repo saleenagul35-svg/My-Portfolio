@@ -2,7 +2,7 @@ import React from "react";
 export default function Education() {
   const educationData = [
     {
-      title: "Full Stack Web Development",
+      title: "MERN Stack Web Development",
       institute: "PNY Trainings – Arfa Tower, Lahore",
       duration: "Starting: 21 August 2025 – Present",
       description:
@@ -10,7 +10,7 @@ export default function Education() {
     },
     {
       title: "Bachelor of Science in Computer Science (BSCS)",
-      institute: "6th Semester (2023 – Present)",
+      institute: "7th Semester (2023 – Present)",
       duration: "CGPA: 3.71",
       description:
         "Focused on software development, data structures, web technologies, and problem-solving.",
@@ -57,7 +57,7 @@ export default function Education() {
 
             {/* Card with Glow */}
             <div className="relative bg-linear-to-br from-gray-900 to-black border border-yellow-500/20 p-6 rounded-2xl transition duration-500 hover:scale-[1.03] hover:border-yellow-500 shadow-lg hover:shadow-[0_0_35px_rgba(250,204,21,0.35)]">
-              
+
               {/* Card Inner Glow */}
               <div className="absolute inset-0 rounded-2xl bg-yellow-500/5 opacity-0 group-hover:opacity-100 transition duration-500 blur-2xl"></div>
 
