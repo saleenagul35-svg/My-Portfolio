@@ -4,7 +4,7 @@ import Link from "next/link"
 const About = () => {
   return (
     <>
-      <section className="min-h-screen bg-black text-white overflow-x-clip relative">
+      <section className="min-h-screen bg-black text-white overflow-x-clip relative " id="about">
 
         {/* Background Glow Effects */}
         <div className="absolute -top-20 -right-20 w-150 h-150 bg-yellow-600/20 blur-[180px] rounded-full"></div> {/* ← Changed -top-25 to -top-20, -right-25 to -right-20 */}

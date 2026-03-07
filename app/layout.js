@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Saleena Gul | Frontend Developer",
+  title: "Saleena Gul | Portfolio",
   description: "Frontend Developer specializing in React, Next.js, and modern web applications.",
 };
 

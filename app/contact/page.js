@@ -5,7 +5,7 @@ import { FaEnvelope, FaPhoneAlt, FaMapMarkerAlt, FaLinkedin } from "react-icons/
 
 const Contact = () => {
     return (
-        <section className="relative bg-black text-white py-20 flex flex-col items-center justify-center overflow-hidden ">
+        <section className="relative bg-black text-white py-20 flex flex-col items-center justify-center overflow-hidden " id="contact">
             {/* Subtle Glow Background Blobs */}
             <div className="absolute -top-32 -right-32 w-80 h-80 bg-yellow-500 rounded-full opacity-20 blur-3xl animate-pulse-slow"></div>
             <div className="absolute -bottom-32 -left-32 w-96 h-96 bg-yellow-500 rounded-full opacity-15 blur-3xl animate-pulse-slow"></div>

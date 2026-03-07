@@ -11,7 +11,7 @@ export default function Education() {
     {
       title: "Bachelor of Science in Computer Science (BSCS)",
       institute: "7th Semester (2023 – Present)",
-      duration: "CGPA: 3.71",
+      duration: "CGPA: 3.72",
       description:
         "Focused on software development, data structures, web technologies, and problem-solving.",
     },

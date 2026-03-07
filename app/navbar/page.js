@@ -15,16 +15,16 @@ const Navbar = () =>{
         </h1>
 
         <ul className="hidden md:flex gap-10 text-gray-300">
-          <li className="hover:text-yellow-500 cursor-pointer transition"><Link href="/">Home</Link> </li>
-          <li className="hover:text-yellow-500 cursor-pointer transition"><Link href="/about">About</Link></li>
-          <li className="hover:text-yellow-500 cursor-pointer transition"><Link href="/education">Education</Link></li>
-           <li className="hover:text-yellow-500 cursor-pointer transition"><Link href="/skills">Skills</Link></li>
-          <li className="hover:text-yellow-500 cursor-pointer transition"><Link href="/projects">Projects</Link></li>
+          <li className="hover:text-yellow-500 cursor-pointer transition"><a href="/">Home</a> </li>
+          <li className="hover:text-yellow-500 cursor-pointer transition"><a href="#about">About</a></li>
+          <li className="hover:text-yellow-500 cursor-pointer transition"><a href="#education">Education</a></li>
+           <li className="hover:text-yellow-500 cursor-pointer transition"><a href="#skills">Skills</a></li>
+          <li className="hover:text-yellow-500 cursor-pointer transition"><a href="#projects">Projects</a></li>
         </ul>
 
-        <Link href="/contact" className="bg-linear-to-r from-yellow-500 to-yellow-600 text-black px-6 py-2 rounded-md font-medium shadow-lg hover:scale-105 transition">
+        <a href="#contact" className="bg-linear-to-r from-yellow-500 to-yellow-600 text-black px-6 py-2 rounded-md font-medium shadow-lg hover:scale-105 transition">
           Contact Me →
-        </Link>
+        </a>
       </nav>
       </section>
         </>
