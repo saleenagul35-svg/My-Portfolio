@@ -30,7 +30,7 @@ const About = () => {
               MERN Stack Developer and BS Computer Science (7th Semester) student
               with strong foundations in HTML, CSS, JavaScript, responsive web design,
               React.js, and Next.js. Currently expanding backend and database expertise
-              through advanced Full-Stack Web Development training. Passionate about
+              through advanced Full-Stack Web Development. Passionate about
               building modern, user-focused, and performance-optimized web applications
               with clean design and scalable architecture.
             </p>
